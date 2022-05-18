@@ -3,6 +3,7 @@
 #include <iostream>
 
 int main() {
-    std::cout << "Hello earth!";
+<<<<<<< HEAD
+    std::cout << "Hello wooorldd";
     return 0;
 }
